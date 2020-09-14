@@ -1,0 +1,9 @@
+.banner{position: relative;}
+
+.referente,
+.agenzia{ height: auto; margin: 20px auto; position: relative; font-size: 14px;}
+
+.referente__data__body p,
+.agenzia__data p{margin-bottom: 0;}
+
+.banner__image-agenzia{max-height: 70px;}

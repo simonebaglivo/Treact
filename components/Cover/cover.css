@@ -1,0 +1,28 @@
+
+.cover{
+    height: 80vh;
+    width: auto;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 0;
+}
+
+.cover-double{display: inline-block; width: 49%;}
+
+.cover__filter{ background-color: rgb(61, 3, 3); opacity: 0.1; }
+
+.cover__copy__section{ position: absolute; bottom: 35px; right: 50px; }
+
+.cover__copy{
+    color: white;
+    position: relative;
+    z-index: 1;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.cover__copy h1{ font-style: italic; }
+
+.cover__button{ position: relative; float: right; font-weight: 600; }

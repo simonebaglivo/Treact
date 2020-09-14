@@ -1,0 +1,29 @@
+.box-login{
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: 400px;
+    width: 400px;
+    border-radius: 30% 30% 0% 30%;
+    
+}
+
+.box-login form .login__group{margin-bottom: 10px;}
+
+.box-login form .login__group label {
+    display: block;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.box-login form .login__group input{
+    border-color: rgb(102, 102, 102);
+    padding: 5px;
+}
+
+.box-login form .login__group input:focus{
+    outline-color: rgb(245, 141, 21);
+    border: none;
+}

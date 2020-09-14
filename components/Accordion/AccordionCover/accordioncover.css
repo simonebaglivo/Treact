@@ -1,0 +1,6 @@
+.accordion__cover__title{ font-size: 24px; font-weight: 600; }
+
+.accordion__cover .cover{height: 40vh;}
+
+.accordion__cover__body,
+.accordion__transfer__description p{ font-size: 15px; }

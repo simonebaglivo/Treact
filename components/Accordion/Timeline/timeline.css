@@ -1,0 +1,29 @@
+/*********
+TIMELINE
+**********/
+
+.timeline{
+    max-width: 11.666667%;
+    position: relative;
+    overflow: hidden;
+}
+
+.timeline__icon{border-radius: 50%; margin: auto;}
+
+.day{
+    height: 60px;
+    width: 60px;
+    background-color: rgb(245, 174, 21);
+    color: white;
+    font-size: 13px;
+}
+
+.day span{font-weight: 600; font-size: 20px;}
+
+.map-marker{ height: 40px; width: 40px;  background-color: rgb(87, 211, 241); color: rgba(25, 35, 66, 0.616); }
+
+.transfer-icon{ height: 40px; width: 40px;}
+
+.timeline__dotted{ margin: auto;border-left: 10px dotted #a7a7a7; height: 100%; width: 0;}
+
+.timeline__activity{height: 40px; width: 40px; background-color: rgb(253, 246, 145); color: rgba(197, 169, 7, 0.801);}

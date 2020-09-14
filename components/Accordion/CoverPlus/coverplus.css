@@ -1,0 +1,21 @@
+.activity-gallery__pics{
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    margin-right: 20px;
+}
+
+.pics-1{ width: 36%; }
+
+.pics-2{ width: 20%; }
+
+.pics-2-filter{ 
+    background-color: rgb(56, 56, 56);
+    opacity: 0.8;
+    color: white;
+    padding: 10px;
+    font-size: 10px;
+}
+
+.pics-2-filter i{font-size: 15px;}

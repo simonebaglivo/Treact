@@ -1,0 +1,19 @@
+.accordion__gallery__pics{position: relative;}
+
+.accordion__gallery__pics__filter{ background-color: rgb(0, 0, 0); opacity: 0.8; }
+
+.accordion__gallery__pics__filter span{font-size: 20px; font-weight: 600;}
+
+.accordion__gallery__description__body p{ line-height: 1.3; margin-bottom: 0; }
+
+p.reminder{font-size: 22px; font-weight: 500; color: rgb(165, 164, 164);}
+
+span.reminder{font-size: 15px; font-weight: 700;}
+
+.cover__acomodation-big{height: 189px; width: 100%;}
+
+.cover__acomodation-small{height: 87px; width: 100%;}
+
+p.reminder{font-size: 22px; font-weight: 500; color: rgb(165, 164, 164);}
+
+span.reminder{font-size: 15px; font-weight: 700;}
